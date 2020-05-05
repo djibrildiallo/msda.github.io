@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>map created with amCharts | amCharts</title>
+		<meta name="description" content="map created using amCharts pixel map generator" />
+
+		<!--
+			This map was created using Pixel Map Generator by amCharts and is licensed under the Creative Commons Attribution 4.0 International License.
+			You may use this map the way you see fit as long as proper attribution to the name of amCharts is given in the form of link to https://pixelmap.amcharts.com/
+			To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/
+
+			If you would like to use this map without any attribution, you can acquire a commercial license for the JavaScript Maps - a tool that was used to produce this map.
+			To do so, visit amCharts Online Store: https://www.amcharts.com/online-store/
+		-->
+
+		<!-- amCharts javascript sources -->
+		<script type="text/javascript" src="https://www.amcharts.com/lib/3/ammap.js"></script>
+		<script type="text/javascript" src="https://www.amcharts.com/lib/3/maps/js/burkinaFasoLow.js"></script>
+
+		<!-- amCharts javascript code -->
+		<script type="text/javascript">
+			AmCharts.makeChart("map",{
+					"type": "map",
+					"pathToImages": "http://www.amcharts.com/lib/3/images/",
+					"addClassNames": true,
+					"fontSize": 15,
+					"color": "#FFFFFF",
+					"projection": "mercator",
+					"backgroundAlpha": 1,
+					"backgroundColor": "rgba(36,13,13,1)",
+					"dataProvider": {
+						"map": "burkinaFasoLow",
+						"getAreasFromMap": true,
+						"images": [
+							{
+								"top": 40,
+								"left": 60,
+								"width": 80,
+								"height": 40,
+								"pixelMapperLogo": true,
+								"imageURL": "http://pixelmap.amcharts.com/static/img/logo.svg",
+								"url": "http://www.amcharts.com"
+							},
+							{
+								"selectable": true,
+								"longitude": 3.3903,
+								"latitude": 15.8027,
+								"label": "Pays: Burkina Faso",
+								"labelPosition": "right",
+								"labelColor": "rgba(75,216,181,0.8)",
+								"labelRollOverColor": "#56f8d0",
+								"labelFontSize": 15
+							},
+							{
+								"selectable": true,
+								"longitude": 3.4305,
+								"latitude": 15.2393,
+								"label": "Langues officielles: Français",
+								"labelPosition": "right",
+								"labelColor": "rgba(75,216,181,0.8)",
+								"labelRollOverColor": "#56f8d0",
+								"labelFontSize": 15
+							},
+							{
+								"selectable": true,
+								"longitude": 3.4105,
+								"latitude": 14.6159,
+								"label": "Capitale: Ouagadougou",
+								"labelPosition": "right",
+								"labelColor": "rgba(75,216,181,0.8)",
+								"labelRollOverColor": "#56f8d0",
+								"labelFontSize": 15
+							},
+							{
+								"selectable": true,
+								"longitude": 3.4105,
+								"latitude": 13.9321,
+								"label": "Superficie totale\t274 400 km2",
+								"labelPosition": "right",
+								"labelColor": "rgba(75,216,181,0.8)",
+								"labelRollOverColor": "#56f8d0",
+								"labelFontSize": 15
+							},
+							{
+								"selectable": true,
+								"longitude": 3.4506,
+								"latitude": 13.3051,
+								"label": "Indépendance:5 août 1960",
+								"labelPosition": "right",
+								"labelColor": "rgba(75,216,181,0.8)",
+								"labelRollOverColor": "#56f8d0",
+								"labelFontSize": 15
+							},
+							{
+								"selectable": true,
+								"longitude": 3.3304,
+								"latitude": 12.6371,
+								"label": "Population totale (2020): 20 835 401 hab.",
+								"labelPosition": "right",
+								"labelColor": "rgba(75,216,181,0.8)",
+								"labelRollOverColor": "#56f8d0",
+								"labelFontSize": 15
+							},
+							{
+								"selectable": true,
+								"longitude": 3.3704,
+								"latitude": 11.9476,
+								"label": "PIB nominal (2018)en augmentation 14,4 milliards de dollars",
+								"labelPosition": "right",
+								"labelColor": "rgba(75,216,181,0.8)",
+								"labelRollOverColor": "#56f8d0",
+								"labelFontSize": 12.5
+							},
+							{
+								"selectable": true,
+								"longitude": 3.3704,
+								"latitude": 11.2168,
+								"label": "Taux de chômage Increase Negative.svg 6,1 % de la pop. active",
+								"labelPosition": "right",
+								"labelColor": "rgba(75,216,181,0.8)",
+								"labelRollOverColor": "#56f8d0",
+								"labelFontSize": 11.7
+							},
+							{
+								"selectable": true,
+								"longitude": 3.4506,
+								"latitude": 10.5635,
+								"label": "Monnaie: Franc CFA (UEMOA) (XOF​)",
+								"labelPosition": "right",
+								"labelColor": "rgba(75,216,181,0.8)",
+								"labelRollOverColor": "#56f8d0",
+								"labelFontSize": 13.3
+							}
+						]
+					},
+					"balloon": {
+						"horizontalPadding": 15,
+						"borderAlpha": 0,
+						"borderThickness": 1,
+						"verticalPadding": 15
+					},
+					"areasSettings": {
+						"color": "rgba(129,129,129,1)",
+						"outlineColor": "rgba(36,13,13,1)",
+						"rollOverOutlineColor": "rgba(36,13,13,1)",
+						"rollOverBrightness": 20,
+						"selectedBrightness": 20,
+						"selectable": true,
+						"unlistedAreasAlpha": 0,
+						"unlistedAreasOutlineAlpha": 0
+					},
+					"imagesSettings": {
+						"alpha": 1,
+						"color": "rgba(129,129,129,1)",
+						"outlineAlpha": 0,
+						"rollOverOutlineAlpha": 0,
+						"outlineColor": "rgba(36,13,13,1)",
+						"rollOverBrightness": 20,
+						"selectedBrightness": 20,
+						"selectable": true
+					},
+					"linesSettings": {
+						"color": "rgba(129,129,129,1)",
+						"selectable": true,
+						"rollOverBrightness": 20,
+						"selectedBrightness": 20
+					},
+					"zoomControl": {
+						"zoomControlEnabled": true,
+						"homeButtonEnabled": false,
+						"panControlEnabled": false,
+						"right": 38,
+						"bottom": 30,
+						"minZoomLevel": 0.25,
+						"gridHeight": 100,
+						"gridAlpha": 0.1,
+						"gridBackgroundAlpha": 0,
+						"gridColor": "#FFFFFF",
+						"draggerAlpha": 1,
+						"buttonCornerRadius": 2
+					}
+				});
+		</script>
+	</head>
+	<body style="margin: 0;background-color: rgba(36,13,13,1);">
+		<div id="map" style="width: 100%; height: 576px;"></div>
+	</body>
+</html>

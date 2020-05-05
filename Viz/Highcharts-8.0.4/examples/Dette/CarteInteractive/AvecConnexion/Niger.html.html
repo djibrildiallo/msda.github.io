@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>map created with amCharts | amCharts</title>
+		<meta name="description" content="map created using amCharts pixel map generator" />
+
+		<!--
+			This map was created using Pixel Map Generator by amCharts and is licensed under the Creative Commons Attribution 4.0 International License.
+			You may use this map the way you see fit as long as proper attribution to the name of amCharts is given in the form of link to https://pixelmap.amcharts.com/
+			To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/
+
+			If you would like to use this map without any attribution, you can acquire a commercial license for the JavaScript Maps - a tool that was used to produce this map.
+			To do so, visit amCharts Online Store: https://www.amcharts.com/online-store/
+		-->
+
+		<!-- amCharts javascript sources -->
+		<script type="text/javascript" src="https://www.amcharts.com/lib/3/ammap.js"></script>
+		<script type="text/javascript" src="https://www.amcharts.com/lib/3/maps/js/nigerLow.js"></script>
+
+		<!-- amCharts javascript code -->
+		<script type="text/javascript">
+			AmCharts.makeChart("map",{
+					"type": "map",
+					"pathToImages": "http://www.amcharts.com/lib/3/images/",
+					"addClassNames": true,
+					"fontSize": 15,
+					"color": "#FFFFFF",
+					"projection": "mercator",
+					"backgroundAlpha": 1,
+					"backgroundColor": "rgba(80,80,80,0.22)",
+					"dataProvider": {
+						"map": "nigerLow",
+						"getAreasFromMap": true,
+						"images": [
+							{
+								"top": 40,
+								"left": 60,
+								"width": 80,
+								"height": 40,
+								"pixelMapperLogo": true,
+								"imageURL": "http://pixelmap.amcharts.com/static/img/logo.svg",
+								"url": "http://www.amcharts.com"
+							},
+							{
+								"selectable": true,
+								"longitude": 19.9886,
+								"latitude": 27.2324,
+								"label": "Pays: Niger",
+								"labelPosition": "right",
+								"labelColor": "rgba(1,7,5,0.8)",
+								"labelRollOverColor": "#010806",
+								"labelFontSize": 15
+							},
+							{
+								"selectable": true,
+								"longitude": 20.1611,
+								"latitude": 24.8318,
+								"label": "Président de la République\tMahamadou Issoufou",
+								"labelPosition": "right",
+								"labelColor": "rgba(1,7,5,0.8)",
+								"labelRollOverColor": "#010806",
+								"labelFontSize": 15
+							},
+							{
+								"selectable": true,
+								"longitude": 20.3335,
+								"latitude": 22.3837,
+								"label": "Langues officielles\tFrançais",
+								"labelPosition": "right",
+								"labelColor": "rgba(1,7,5,0.8)",
+								"labelRollOverColor": "#010806",
+								"labelFontSize": 15
+							},
+							{
+								"selectable": true,
+								"longitude": 20.4198,
+								"latitude": 19.8917,
+								"label": "Capitale\tNiamey",
+								"labelPosition": "right",
+								"labelColor": "rgba(1,7,5,0.8)",
+								"labelRollOverColor": "#010806",
+								"labelFontSize": 15
+							},
+							{
+								"selectable": true,
+								"longitude": 20.5059,
+								"latitude": 16.8653,
+								"label": "Population totale (20201)\t22 772 361 hab.",
+								"labelPosition": "right",
+								"labelColor": "rgba(1,7,5,0.8)",
+								"labelRollOverColor": "#010806",
+								"labelFontSize": 15
+							},
+							{
+								"selectable": true,
+								"longitude": 20.6785,
+								"latitude": 13.2038,
+								"label": "Monnaie\tFranc CFA (UEMOA) (XOF​)",
+								"labelPosition": "right",
+								"labelColor": "rgba(1,7,5,0.8)",
+								"labelRollOverColor": "#010806",
+								"labelFontSize": 15
+							},
+							{
+								"selectable": true,
+								"longitude": -21.3204,
+								"latitude": 2.7191,
+								"label": "Copyright © CEDEAO 2020 by Abdoulahi MBENGUE, Seyni Kaire, Khadim CISSE",
+								"labelPosition": "right",
+								"labelColor": "rgba(1,7,5,0.8)",
+								"labelRollOverColor": "#010806",
+								"labelFontSize": 15
+							}
+						]
+					},
+					"balloon": {
+						"horizontalPadding": 15,
+						"borderAlpha": 0,
+						"borderThickness": 1,
+						"verticalPadding": 15
+					},
+					"areasSettings": {
+						"color": "rgba(50,169,222,1)",
+						"outlineColor": "rgba(80,80,80,0.22)",
+						"rollOverOutlineColor": "rgba(80,80,80,0.22)",
+						"rollOverBrightness": 20,
+						"selectedBrightness": 20,
+						"selectable": true,
+						"unlistedAreasAlpha": 0,
+						"unlistedAreasOutlineAlpha": 0
+					},
+					"imagesSettings": {
+						"alpha": 1,
+						"color": "rgba(50,169,222,1)",
+						"outlineAlpha": 0,
+						"rollOverOutlineAlpha": 0,
+						"outlineColor": "rgba(80,80,80,0.22)",
+						"rollOverBrightness": 20,
+						"selectedBrightness": 20,
+						"selectable": true
+					},
+					"linesSettings": {
+						"color": "rgba(50,169,222,1)",
+						"selectable": true,
+						"rollOverBrightness": 20,
+						"selectedBrightness": 20
+					},
+					"zoomControl": {
+						"zoomControlEnabled": true,
+						"homeButtonEnabled": false,
+						"panControlEnabled": false,
+						"right": 38,
+						"bottom": 30,
+						"minZoomLevel": 0.25,
+						"gridHeight": 100,
+						"gridAlpha": 0.1,
+						"gridBackgroundAlpha": 0,
+						"gridColor": "#FFFFFF",
+						"draggerAlpha": 1,
+						"buttonCornerRadius": 2
+					}
+				});
+		</script>
+	</head>
+	<body style="margin: 0;background-color: rgba(80,80,80,0.22);">
+		<div id="map" style="width: 100%; height: 576px;"></div>
+	</body>
+</html>

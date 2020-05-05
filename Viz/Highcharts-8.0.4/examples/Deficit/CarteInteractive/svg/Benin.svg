@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+    <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+    <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1366" height="576" xml:space="preserve">
+        <desc>JavaScript chart by amCharts 3.21.15</desc>
+        <desc>This map was created using Pixel Map Generator by amCharts and is licensed under the Creative Commons Attribution 4.0 International License. You may use this map the way you see fit as long as proper attribution to the name of amCharts is given in the form of link to http://pixelmap.amcharts.com/ To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/ If you would like to use this map without any attribution, you can acquire a commercial license for the JavaScript Maps - a tool that was used to produce this map. To do so, visit amCharts Online Store: http://www.amcharts.com/online-store/</desc>
+        <g>
+            <path cs="100,100" d="M0.5,0.5 L1365.5,0.5 L1365.5,575.5 L0.5,575.5 Z" fill="#952323" stroke="#000000" fill-opacity="1" stroke-width="1" stroke-opacity="1" class="amcharts-bg"></path>
+        </g>
+        <g>
+            <g transform="translate(612.3554639057882,148.5170245192257) scale(0.5)">
+                <g transform="translate(0,0) scale(0.35344358271025306)">
+                    <path cs="100,100" d="M344.13,1445.15L294.45,1405.21L224.4,1283.5L225.03,1424.87L200.66,1426.14L215.54,1497.19L328.44,1500.85L344.13,1445.15z" transform="translate(0,-26)" stroke-width="5.658611721462674" fill="#1bb81b" fill-opacity="1" stroke="#952323" stroke-opacity="1" class="amcharts-map-area amcharts-map-area-BJ-KO" role="menuitem" aria-label="Kouffo  " countryId="BJ-KO"></path>
+                    <path cs="100,100" d="M443.82,1582.11L422.33,1444.82L344.13,1445.15L328.44,1500.85L319.11,1610.69L415.82,1597.65L443.82,1582.11z" transform="translate(0,-26)" stroke-width="5.658611721462674" fill="#1bb81b" fill-opacity="1" stroke="#952323" stroke-opacity="1" class="amcharts-map-area amcharts-map-area-BJ-AQ" role="menuitem" aria-label="Atlantique  " countryId="BJ-AQ"></path>
+                    <path cs="100,100" d="M326.31,257.01L218.77,268.38L176.68,245.82L148.29,294.84L97.66,302.46L103.6,327.41L78.62,333.73L92.1,364.02L57.59,350.14L52.89,378.2L36.83,373.27L0.25,534.75L151.81,647.59L346.18,627.33L391.84,600.04L369.66,529.77L388.57,498.9L390.66,408.7L414.86,381.92L326.31,257.01z" transform="translate(0,-26)" stroke-width="5.658611721462674" fill="#1bb81b" fill-opacity="1" stroke="#952323" stroke-opacity="1" class="amcharts-map-area amcharts-map-area-BJ-AK" role="menuitem" aria-label="Atakora  " countryId="BJ-AK" cursor="pointer"></path>
+                    <path cs="100,100" d="M346.18,627.33L151.81,647.59L147.24,761.71L217.26,878.93L220.23,1007.32L278.04,1000.42L368.29,1035.53L372.88,957.89L331.22,926.92L335.51,875.09L314.57,842.02L319.74,806.76L353.01,797.38L364.22,726.26L343.24,686.98L346.18,627.33z" transform="translate(0,-26)" stroke-width="5.658611721462674" fill="#1bb81b" fill-opacity="1" stroke="#952323" stroke-opacity="1" class="amcharts-map-area amcharts-map-area-BJ-DO" role="menuitem" aria-label="Donga  " countryId="BJ-DO" cursor="pointer"></path>
+                    <path cs="100,100" d="M541.72,0L418.46,43.35L441,111.71L421.28,119.99L397,195.02L326.31,257.01L414.86,381.92L390.66,408.7L388.57,498.9L799.75,469.08L771.89,422.24L769.83,341.6L703.91,260.22L737.17,186.93L541.72,0z" transform="translate(0,-26)" stroke-width="5.658611721462674" fill="#1bb81b" fill-opacity="1" stroke="#952323" stroke-opacity="1" class="amcharts-map-area amcharts-map-area-BJ-AL" role="menuitem" aria-label="Alibori  " countryId="BJ-AL"></path>
+                    <path cs="100,100" d="M448.07,1594.64L443.82,1582.11L415.82,1597.65L448.07,1594.64z" transform="translate(0,-26)" stroke-width="5.658611721462674" fill="#1bb81b" fill-opacity="1" stroke="#952323" stroke-opacity="1" class="amcharts-map-area amcharts-map-area-BJ-LI" role="menuitem" aria-label="Littoral  " countryId="BJ-LI"></path>
+                    <path cs="100,100" d="M510.18,959.32L522.19,884.13L601.93,874.1L616.62,778.75L668.35,727.43L666.88,687.96L715.52,676.12L735.37,649.16L755.64,596.97L730.93,560.23L751.64,520.58L786.88,523.07L799.75,469.08L388.57,498.9L369.66,529.77L391.84,600.04L346.18,627.33L343.24,686.98L364.22,726.26L353.01,797.38L319.74,806.76L314.57,842.02L335.51,875.09L331.22,926.92L372.88,957.89L510.18,959.32z" transform="translate(0,-26)" stroke-width="5.658611721462674" fill="#1bb81b" fill-opacity="1" stroke="#952323" stroke-opacity="1" class="amcharts-map-area amcharts-map-area-BJ-BO" role="menuitem" aria-label="Borgou  " countryId="BJ-BO"></path>
+                    <path cs="100,100" d="M508.8,1251.48L451.77,1251.34L433.41,1312.43L461.03,1377.29L457.45,1425.81L477.28,1513.31L509.1,1553.74L528.21,1298.9L508.8,1251.48z" transform="translate(0,-26)" stroke-width="5.658611721462674" fill="#1bb81b" fill-opacity="1" stroke="#952323" stroke-opacity="1" class="amcharts-map-area amcharts-map-area-BJ-PL" role="menuitem" aria-label="Plateau  " countryId="BJ-PL"></path>
+                    <path cs="100,100" d="M433.41,1312.43L293.57,1260.77L224.29,1260.94L224.4,1283.5L294.45,1405.21L344.13,1445.15L422.33,1444.82L457.45,1425.81L461.03,1377.29L433.41,1312.43z" transform="translate(0,-26)" stroke-width="5.658611721462674" fill="#1bb81b" fill-opacity="1" stroke="#952323" stroke-opacity="1" class="amcharts-map-area amcharts-map-area-BJ-ZO" role="menuitem" aria-label="Zou  " countryId="BJ-ZO"></path>
+                    <path cs="100,100" d="M510.18,959.32L372.88,957.89L368.29,1035.53L278.04,1000.42L220.23,1007.32L224.29,1260.94L293.57,1260.77L433.41,1312.43L451.77,1251.34L508.8,1251.48L510.18,959.32z" transform="translate(0,-26)" stroke-width="5.658611721462674" fill="#1bb81b" fill-opacity="1" stroke="#952323" stroke-opacity="1" class="amcharts-map-area amcharts-map-area-BJ-CO" role="menuitem" aria-label="Collines  " countryId="BJ-CO"></path>
+                    <path cs="100,100" d="M457.45,1425.81L422.33,1444.82L443.82,1582.11L448.07,1594.64L505.21,1589.3L509.1,1553.74L477.28,1513.31L457.45,1425.81z" transform="translate(0,-26)" stroke-width="5.658611721462674" fill="#1bb81b" fill-opacity="1" stroke="#952323" stroke-opacity="1" class="amcharts-map-area amcharts-map-area-BJ-OU" role="menuitem" aria-label="Ouémé  " countryId="BJ-OU"></path>
+                    <path cs="100,100" d="M223.46,1629.68L319.11,1610.69L328.44,1500.85L215.54,1497.19L265.74,1613.11L223.46,1629.68z" transform="translate(0,-26)" stroke-width="5.658611721462674" fill="#1bb81b" fill-opacity="1" stroke="#952323" stroke-opacity="1" class="amcharts-map-area amcharts-map-area-BJ-MO" role="menuitem" aria-label="Mono  " countryId="BJ-MO"></path>
+                </g>
+                <g>
+                    <g class="amcharts-map-image-container" role="menuitem" aria-label=" " transform="translate(579.2092056022543,389.1095746415447) scale(2)">
+                        <circle r="0.5" cx="0" cy="0" fill="#5affd9" stroke="#000000" fill-opacity="1" stroke-width="0.01" stroke-opacity="1" transform="translate(0,0) scale(1)" class="amcharts-map-image amcharts-selected-object"></circle>
+                    </g>
+                    <g class="amcharts-map-image-container" role="menuitem" aria-label=" " transform="translate(495.2133381711626,11.112266240410356) scale(2)" cursor="pointer">
+                        <circle r="0.5" cx="0" cy="0" fill="#5affd9" stroke="#000000" fill-opacity="1" stroke-width="0.01" stroke-opacity="1" transform="translate(0,0) scale(1)" class="amcharts-map-image amcharts-selected-object"></circle>
+                    </g>
+                    <g class="amcharts-map-image-container" role="menuitem" aria-label=" " transform="translate(535.2019451190007,291.1244102067812) scale(2)" cursor="pointer">
+                        <circle r="0.5" cx="0" cy="0" fill="#4bd8b5" stroke="#000000" fill-opacity="0.8" stroke-width="0.01" stroke-opacity="1" transform="translate(0,0) scale(1)" class="amcharts-map-image"></circle>
+                        <text y="8" fill="#4bd8b5" font-family="Verdana" font-size="15px" opacity="1" text-anchor="middle" class="amcharts-map-image-label" transform="translate(108.40625,-15)" fill-opacity="0.8">
+                            <tspan y="8" x="0">Superficie totale: 114 763 km2</tspan>
+                        </text>
+                    </g>
+                    <g class="amcharts-map-image-container" role="menuitem" aria-label=" " transform="translate(543.2003733957338,433.12743843227963) scale(2)" cursor="pointer">
+                        <circle r="0.5" cx="0" cy="0" fill="#4bd8b5" stroke="#000000" fill-opacity="0.8" stroke-width="0.01" stroke-opacity="1" transform="translate(0,0) scale(1)" class="amcharts-map-image"></circle>
+                        <text y="8" fill="#4bd8b5" font-family="Verdana" font-size="15px" opacity="1" text-anchor="middle" class="amcharts-map-image-label" transform="translate(139.984375,-15)" fill-opacity="0.8">
+                            <tspan y="8" x="0">PIB nominal (2018): 10,34 milliards US</tspan>
+                        </text>
+                    </g>
+                    <g class="amcharts-map-image-container" role="menuitem" aria-label=" " transform="translate(527.2035168422676,153.12236333756294) scale(2)" cursor="pointer">
+                        <circle r="0.5" cx="0" cy="0" fill="#4bd8b5" stroke="#000000" fill-opacity="0.8" stroke-width="0.01" stroke-opacity="1" transform="translate(0,0) scale(1)" class="amcharts-map-image"></circle>
+                        <text y="8" fill="#4bd8b5" font-family="Verdana" font-size="15px" opacity="1" text-anchor="middle" class="amcharts-map-image-label" transform="translate(106.234375,-15)" fill-opacity="0.8">
+                            <tspan y="8" x="0">Capitale Politique : Porto-Novo</tspan>
+                        </text>
+                    </g>
+                    <g class="amcharts-map-image-container" role="menuitem" aria-label=" " transform="translate(513.2071509669416,103.11009638406213) scale(2)" cursor="pointer">
+                        <circle r="0.5" cx="0" cy="0" fill="#5affd9" stroke="#000000" fill-opacity="1" stroke-width="0.01" stroke-opacity="1" transform="translate(0,0) scale(1)" class="amcharts-map-image amcharts-selected-object"></circle>
+                    </g>
+                    <g class="amcharts-map-image-container" role="menuitem" aria-label=" " transform="translate(515.1970383376004,19.12129782462469) scale(2)" cursor="pointer">
+                        <circle r="0.5" cx="0" cy="0" fill="#4bd8b5" stroke="#000000" fill-opacity="0.8" stroke-width="0.01" stroke-opacity="1" transform="translate(0,0) scale(1)" class="amcharts-map-image"></circle>
+                        <text y="8" fill="#4bd8b5" font-family="Verdana" font-size="15px" opacity="1" text-anchor="middle" class="amcharts-map-image-label" transform="translate(141.203125,-15)" fill-opacity="0.8">
+                            <tspan y="8" x="0">Président de la République Patrice Talon</tspan>
+                        </text>
+                    </g>
+                    <g class="amcharts-map-image-container" role="menuitem" aria-label=" " transform="translate(531.2009637627207,221.12490865101563) scale(2)" cursor="pointer">
+                        <circle r="0.5" cx="0" cy="0" fill="#4bd8b5" stroke="#000000" fill-opacity="0.8" stroke-width="0.01" stroke-opacity="1" transform="translate(0,0) scale(1)" class="amcharts-map-image"></circle>
+                        <text y="8" fill="#4bd8b5" font-family="Verdana" font-size="15px" opacity="1" text-anchor="middle" class="amcharts-map-image-label" transform="translate(109.359375,-15)" fill-opacity="0.8">
+                            <tspan y="8" x="0">Capitale Économique : Cotonou</tspan>
+                        </text>
+                    </g>
+                    <g class="amcharts-map-image-container" role="menuitem" aria-label=" " transform="translate(521.2055792436747,85.12335245993735) scale(2)" cursor="pointer">
+                        <circle r="0.5" cx="0" cy="0" fill="#4bd8b5" stroke="#000000" fill-opacity="0.8" stroke-width="0.01" stroke-opacity="1" transform="translate(0,0) scale(1)" class="amcharts-map-image"></circle>
+                        <text y="8" fill="#4bd8b5" font-family="Verdana" font-size="15px" opacity="1" text-anchor="middle" class="amcharts-map-image-label" transform="translate(96.3125,-15)" fill-opacity="0.8">
+                            <tspan y="8" x="0">Langues officielles: Français</tspan>
+                        </text>
+                    </g>
+                    <g class="amcharts-map-image-container" role="menuitem" aria-label=" " transform="translate(517.1975290157404,-54.87211621576679) scale(2)" cursor="pointer">
+                        <circle r="0.5" cx="0" cy="0" fill="#4bd8b5" stroke="#000000" fill-opacity="0.8" stroke-width="0.01" stroke-opacity="1" transform="translate(0,0) scale(1)" class="amcharts-map-image"></circle>
+                        <text y="8" fill="#4bd8b5" font-family="Verdana" font-size="15px" opacity="1" text-anchor="middle" class="amcharts-map-image-label" transform="translate(32.203125,-15)" fill-opacity="0.8">
+                            <tspan y="8" x="0">Pays:Benin</tspan>
+                        </text>
+                    </g>
+                    <g class="amcharts-map-image-container" role="menuitem" aria-label=" " transform="translate(549.2053798659808,501.11938043825097) scale(2)" cursor="pointer">
+                        <circle r="0.5" cx="0" cy="0" fill="#4bd8b5" stroke="#000000" fill-opacity="0.8" stroke-width="0.01" stroke-opacity="1" transform="translate(0,0) scale(1)" class="amcharts-map-image"></circle>
+                        <text y="8" fill="#4bd8b5" font-family="Verdana" font-size="15px" opacity="1" text-anchor="middle" class="amcharts-map-image-label" transform="translate(102.453125,-15)" fill-opacity="0.8">
+                            <tspan y="8" x="0">Monnaie: Franc CFA (UEMOA)</tspan>
+                        </text>
+                    </g>
+                    <g class="amcharts-map-image-container" role="menuitem" aria-label=" " transform="translate(539.1993920394536,365.1213586829998) scale(2)" cursor="pointer">
+                        <circle r="0.5" cx="0" cy="0" fill="#4bd8b5" stroke="#000000" fill-opacity="0.8" stroke-width="0.01" stroke-opacity="1" transform="translate(0,0) scale(1)" class="amcharts-map-image"></circle>
+                        <text y="8" fill="#4bd8b5" font-family="Verdana" font-size="15px" opacity="1" text-anchor="middle" class="amcharts-map-image-label" transform="translate(148.375,-15)" fill-opacity="0.8">
+                            <tspan y="8" x="0">Population totale (2020):12 864 634 hab.</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g transform="translate(20,20)">
+            <path class="app-brand-logo-white" fill="#000000" d="M5.033,31.105h0.941l3.383,8.306H8.514l-0.819-2.016H3.176l-0.868,2.016H1.465L5.033,31.105zM3.408,36.749h4.055l-1.967-4.801L3.408,36.749z"></path>
+            <path class="app-brand-logo-white" fill="#000000" d="M19.117,32.436l-3.493,4.226h-0.196l-3.493-4.226v6.975h-0.83v-8.306h0.757l3.665,4.434l3.651-4.434h0.77v8.306h-0.831V32.436z"></path>
+            <path class="app-brand-logo-white" fill="#000000" d="M26.997,37.64c1.026,0,1.747-0.403,2.284-0.819l0.941,1.478c-0.855,0.77-1.955,1.234-3.286,1.234c-2.504,0-4.385-1.845-4.385-4.276c0-2.43,1.881-4.275,4.385-4.275c1.331,0,2.431,0.464,3.286,1.234l-0.941,1.478c-0.537-0.415-1.258-0.818-2.284-0.818c-1.404,0-2.332,1.063-2.332,2.382C24.664,36.578,25.593,37.64,26.997,37.64z"></path>
+            <path class="app-brand-logo-white" fill="#000000" d="M38.382,36.101h-3.92v3.31h-2.053v-8.306h2.053v3.212h3.92v-3.212h2.052v8.306h-2.052V36.101z"></path>
+            <path class="app-brand-logo-white" fill="#000000" d="M45.455,31.105h2.418l3.139,8.306h-2.076l-0.562-1.527h-3.481l-0.574,1.527h-2.077L45.455,31.105zM45.406,36.382h2.468l-1.209-3.249L45.406,36.382z"></path>
+            <path class="app-brand-logo-white" fill="#000000" d="M52.858,31.105h3.945c1.93,0,3.2,0.88,3.2,2.748c0,1.234-0.818,2.162-1.966,2.492l2.418,2.675v0.391h-2.187l-2.528-2.944h-0.83v2.944h-2.052V31.105z M54.91,32.888v2.052h1.857c0.672,0,1.111-0.415,1.111-1.026c0-0.635-0.44-1.026-1.111-1.026H54.91z"></path>
+            <path class="app-brand-logo-white" fill="#000000" d="M66.295,32.901v6.511h-2.052v-6.511H61.69v-1.795h7.084v1.795H66.295z"></path>
+            <path class="app-brand-logo-white" fill="#000000" d="M70.889,36.944c0.635,0.416,1.588,0.831,2.626,0.831c0.818,0,1.331-0.269,1.331-0.795c0-0.366-0.269-0.586-0.94-0.757l-1.355-0.367c-1.43-0.378-2.114-1.136-2.114-2.308c0-1.418,1.087-2.553,3.322-2.553c1.185,0,2.345,0.33,2.993,0.659l-0.574,1.772c-0.647-0.367-1.649-0.672-2.504-0.672c-0.806,0-1.149,0.257-1.149,0.66c0,0.366,0.245,0.513,0.757,0.659l1.478,0.428c1.526,0.439,2.186,1.184,2.186,2.333c0,1.6-1.405,2.699-3.482,2.699c-1.221,0-2.504-0.416-3.053-0.721L70.889,36.944z"></path>
+            <path class="app-brand-logo-white" fill="#000000" d="M68.607,20.635c-11.025-0.002-20.827-0.004-20.827-0.004l0,0h-0.001c-6.516,0-9.003-4.935-11.637-10.16C33.664,5.553,31.101,0.466,24.983,0.466c-6.116,0-8.68,5.086-11.159,10.005c-2.633,5.225-5.121,10.16-11.637,10.16l-0.1,0.021c-0.858,0.001-1.554,0.699-1.553,1.558c0.001,0.858,0.697,1.553,1.556,1.553h0.001c0.096,0,0.082-0.02,0.096-0.02c8.433,0,11.75-6.583,14.416-11.871c2.243-4.45,4.181-8.295,8.38-8.295c4.2,0,6.138,3.843,8.381,8.295c2.665,5.288,5.982,11.869,14.414,11.871l0,0c0,0,15.624,0.005,29.88,0.005v-0.005C74.371,23.744,71.319,22.668,68.607,20.635z"></path>
+            <path fill="none" stroke="#5DC7CE" stroke-width="4" stroke-linejoin="round" stroke-miterlimit="10" d="M-3.898,22.214"></path>
+            <path fill="#1FA3DD" d="M78,20.632h-0.34c-7.295,0-11.593-6.37-13.915-11.714c-0.634-1.459-2.431-4.912-5.418-5.437c-1.08-0.189-2.724-0.046-4.403,1.725c-0.66,0.697-1.174,1.559-1.67,2.392c-1.073,1.801-1.695,2.642-2.672,2.578c-1.162-0.075-1.823-1.083-2.803-2.72c-0.579-0.966-1.177-1.965-2.022-2.743c-0.868-0.798-2.114-1.199-3.416-1.09c-1.345,0.109-2.55,0.722-3.305,1.685c-0.927,1.181-1.485,2.496-2.025,3.77c-0.089,0.21-0.177,0.409-0.265,0.612c0.134,0.261,0.266,0.523,0.397,0.785c0.451,0.894,0.898,1.778,1.361,2.632c0.114-0.201,0.24-0.398,0.349-0.6c0.393-0.731,0.713-1.484,1.022-2.212c0.482-1.136,0.937-2.209,1.609-3.065c0.211-0.269,0.646-0.466,1.108-0.504c0.425-0.037,0.833,0.071,1.058,0.278c0.514,0.473,0.973,1.24,1.459,2.052c1.079,1.801,2.421,4.042,5.271,4.227c3.01,0.187,4.469-2.281,5.547-4.09c0.428-0.719,0.833-1.397,1.256-1.844c0.88-0.928,1.427-0.833,1.605-0.801c0.979,0.172,2.255,1.658,3.104,3.612c3.805,8.761,9.761,13.586,16.769,13.586H78c0.859,0,1.556-0.697,1.556-1.556C79.555,21.328,78.859,20.632,78,20.632z M30.888,16.92c-2.452,2.683-5.12,3.728-9.512,3.728H10.661c-2.101,1.846-4.801,3.095-8.474,3.095H2.023c0.055,0.006,0.108,0.017,0.122,0.02h19.187c5.283-0.003,8.814-1.421,11.852-4.743c0.879-0.962,1.684-1.957,2.426-2.974c-0.612-1.01-1.162-2.044-1.679-3.054C33.05,14.343,32.039,15.661,30.888,16.92z"></path>
+        </g>
+    </svg>

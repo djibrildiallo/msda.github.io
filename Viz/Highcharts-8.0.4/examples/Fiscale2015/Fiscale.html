@@ -1,0 +1,389 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+  <title>MSDA VIZ</title>
+  <meta content="" name="descriptison">
+  <meta content="" name="keywords">
+
+  <!-- Favicons -->
+  <link href="assets/img/favicon.png" rel="icon">
+  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+
+  <!-- Vendor CSS Files -->
+  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/vendor/icofont/icofont.min.css" rel="stylesheet">
+  <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+  <link href="assets/vendor/venobox/venobox.css" rel="stylesheet">
+  <link href="assets/vendor/owl.carousel/assets/owl.carousel.min.css" rel="stylesheet">
+  <link href="assets/vendor/aos/aos.css" rel="stylesheet">
+        <script type="text/javascript" src="../js/d3.js">
+		 </script>
+  <!-- Template Main CSS File -->
+  <link href="assets/css/style.css" rel="stylesheet">
+<style>
+                #tooltip {
+                    position: absolute;
+                    text-align: center;
+                    max-width: 70px;
+                    max-height: 60px;
+                    padding: 8px;
+                    border: none;
+                    border-radius: 8px;
+                    margin-top: -30px;
+                    font: 10px sans-serif;
+                    background: purple;
+                    color:black;
+                    pointer-events: none;
+                }
+                h4{
+                position:center;
+                }
+                 #span0{
+                background-color:brown;
+                color:black;
+                }
+                #span1{
+                background-color:yellow;
+                color:black;
+                }
+                #span2{
+                background-color:blue;
+                color:black;
+                }
+				
+            </style>
+<style type="text/css">
+.highcharts-figure, .highcharts-data-table table {
+    min-width: 360px; 
+    max-width: 800px;
+    margin: 1em auto;
+}
+
+.highcharts-data-table table {
+	font-family: Verdana, sans-serif;
+	border-collapse: collapse;
+	border: 1px solid #EBEBEB;
+	margin: 10px auto;
+	text-align: center;
+	width: 100%;
+	max-width: 500px;
+}
+.highcharts-data-table caption {
+    padding: 1em 0;
+    font-size: 1.2em;
+    color: #555;
+}
+.highcharts-data-table th {
+	font-weight: 600;
+    padding: 0.5em;
+}
+.highcharts-data-table td, .highcharts-data-table th, .highcharts-data-table caption {
+    padding: 0.5em;
+}
+.highcharts-data-table thead tr, .highcharts-data-table tr:nth-child(even) {
+    background: #f8f8f8;
+}
+.highcharts-data-table tr:hover {
+    background: #f1f7ff;
+}
+
+		</style>			
+  <!-- =======================================================
+  * Template Name: Squadfree - v2.0.1
+  * Template URL: https://bootstrapmade.com/squadfree-free-bootstrap-template-creative/
+  * Author: BootstrapMade.com
+  * License: https://bootstrapmade.com/license/
+  ======================================================== -->
+</head>
+
+<body>
+
+  <!-- ======= Header ======= -->
+  <header id="header" class="fixed-top">
+    <div class="container d-flex">
+
+      <div class="logo mr-auto">
+        <h1 class="text-light"><a href="index.html"><span>MSDA Viz.COM</span></a></h1>
+        <!-- Uncomment below if you prefer to use an image logo -->
+        <!-- <a href="index.html"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
+      </div>
+
+            <nav class="nav-menu d-none d-lg-block">
+        <ul>
+          <li class="active"><a href="../../../../index.html#header">Home</a></li>
+          <li><a href="../../../../index.html#about">Presentation</a></li>
+          <li><a href="../../../../index.html#services">Donnees</a></li>
+          <li><a href="../../../../index.html#portfolio">CARTE INTERACTIVE</a></li>
+          <li class="drop-down"><a href="">Visualisation</a>
+            <ul>
+              <li><a href="#"></a></li>
+              <li class="drop-down"><a href="#">Croissance</a>
+                <ul>
+                  <li><a href="../../../Croissance.html">Via Heatmap</a></li>
+                  <li><a href="../Croissance/Croissance.html#about">Via Annee</a></li>
+                  <li><a href="../CroissanceP/Croissance.html#about">Via Pays</a></li>
+                  
+                </ul>
+              </li>
+              <li class="drop-down"><a href="#">Deficit budg.</a>
+			  <ul>
+                  <li><a href="../../../Deficit.html">Via Heatmap</a></li>
+                  <li><a href="../Deficit/Deficit.html#about">Via Annee</a></li>
+                  <li><a href="../DeficitP/Deficit.html#about">Via Pays</a></li>
+                  
+                </ul>
+			  </li>
+              <li class="drop-down"><a href="#">Inflation </a>
+			  <ul>
+                  <li><a href="../../../inflation.html">Via Heatmap</a></li>
+                  <li><a href="../Inflation/Inflation.html#about">Via Annee</a></li>
+                  <li><a href="../InflationP/Inflation.html#about">Via Pays</a></li>
+                  
+                </ul>
+			  
+			  </li>
+              <li class="drop-down"><a href="#">Dette publique.</a>
+			  <ul>
+                  <li><a href="../../../dette_publique.html">Via Heatmap</a></li>
+                  <li><a href="../Dette/Dette.html#about">Via Annee</a></li>
+                  <li><a href="../DetteP/Dette.html#about">Via Pays</a></li>
+                  
+                </ul>
+			  </li>
+			  
+			   <li class="drop-down"><a href="#">Recettes Fiscales.</a>
+			  <ul>
+                  <li><a href="../../../recettes_fiscales.html">Via Heatmap</a></li>
+                  <li><a href="../Fiscale/Fiscale.html#about">Via Annee</a></li>
+                  <li><a href="../FiscaleP/Fiscale.html#about">Via Pays</a></li>
+                  
+                </ul>
+			  </li>
+			   <li class="drop-down"><a href="#">Masse salariale.</a>
+			  <ul>
+                  <li><a href="../../../masse_salariale.html">Via Heatmap</a></li>
+                  <li><a href="../Masse/Masse.html#about">Via Annee</a></li>
+                  <li><a href="../MasseP/Masse.html#about">Via Pays</a></li>
+                  
+                </ul>
+			  </li>
+			   <li class="drop-down"><a href="#">Recettes Totales</a>
+			  <ul>
+                  <li><a href="../../../recettes_totales.html">Via Heatmap</a></li>
+                  <li><a href="../Total/Total.html#about">Via Annee</a></li>
+                  <li><a href="../TotalP/Total.html#about">Via Pays</a></li>
+                 
+                </ul>
+			  </li>
+			   <li class="drop-down"><a href="#">Depenses Totales</a>
+			  <ul>
+                  <li><a href="../../../depenses.html">Via Heatmap</a></li>
+                  <li><a href="../Depense/Depense.html#about">Via Annee</a></li>
+                  <li><a href="../DepenseP/Depense.html#about">Via Pays</a></li>
+                  
+                </ul>
+			  </li>
+            </ul>
+          </li>
+          <li><a href="../../../../index.html#team">Team</a></li>
+
+        </ul>
+      </nav><!-- .nav-menu -->
+
+    </div>
+  </header><!-- End Header -->
+
+  
+
+  <main id="main">
+  
+    <!-- ======= About Section ======= -->
+	<br><br><br><br><br><br><br><br>
+    <section id="about" class="about">
+      <div class="container">
+       
+
+<FORM NAME="Choix">
+<SELECT NAME="Liste" onChange="Lien()">
+<OPTION VALUE="">2015
+<OPTION VALUE="../Fiscale2010/Fiscale.html#about">2010
+<OPTION VALUE="../Fiscale2011/Fiscale.html#about">2011
+<OPTION VALUE="../Fiscale2012/Fiscale.html#about">2012
+<OPTION VALUE="../Fiscale2013/Fiscale.html#about">2013
+<OPTION VALUE="../Fiscale2014/Fiscale.html#about">2014
+<OPTION VALUE="../Fiscale2016/Fiscale.html#about">2016
+
+
+
+</SELECT>
+</FORM>
+	<script src="d3.js"></script>
+<script>
+	function Lien() {
+	i = document.Choix.Liste.selectedIndex;
+	if (i == 0) return;
+	url = document.Choix.Liste.options[i].value;
+	parent.location.href = url;
+}
+</script>
+<script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+<script src="../../code/highcharts.js"></script>
+<script src="../../code/highcharts-more.js"></script>
+<script src="../../code/modules/exporting.js"></script>
+<script src="../../code/modules/export-data.js"></script>
+<script src="../../code/modules/accessibility.js"></script>
+
+<figure class="highcharts-figure">
+    <div id="container"></div>
+    
+
+    
+</figure>
+
+
+
+<script type="text/javascript">
+var chart = Highcharts.chart('container', {
+
+    title: {
+        text: 'Ratio Recettes Ficales sur PIB des Pays en 2015'
+    },
+
+    subtitle: {
+        text: 'Pays'
+    },
+    credits:{
+	enabled: false
+	},
+    xAxis: {
+        categories: ['Benin', 'Burkina', 'Cap Vert', "Cote d'ivoire", 'Gambie', 'Ghana', 'Guinee', 'Guinee Bissau', 'Liberia', 'Mali', 'Niger', 'Nigeria',"Senegal","Sierra Leone","Togo"]
+    },
+    series: [{
+        type: 'column',
+        colorByPoint: true,
+		name:"Ratio Recettes Ficales sur PIB en %",
+        data: [14.2, 14.2, 19.0, 15.6, 16.8, 17.3, 16.5, 10.2, 19.0, 14.0, 16.2, 1.5, 19.8, 9.1, 21.4],
+        showInLegend: false
+    }]
+
+});
+
+
+
+
+		</script>
+
+
+
+
+
+		
+              </div>
+     
+
+    </section><!-- End About Section -->
+ 
+  </main><!-- End #main -->
+
+  <!-- ======= Footer ======= -->
+  <footer id="footer">
+    <div class="footer-top">
+      <div class="container">
+        <div class="row">
+
+          <div class="col-lg-4 col-md-6">
+            <div class="footer-info" data-aos="fade-up" data-aos-delay="50">
+              <h3>MSDA Viz</h3>
+              <p class="pb-3"><em>Qui repudiandae et eum dolores alias sed ea. Qui suscipit veniam excepturi quod.</em></p>
+              <p>
+                Site VCN<br>
+                UT Thies, Senegal<br><br>
+                <strong>Phone:</strong> +221 78 373 52 36 or 77 766 26 89 or 78 541 81 31<br>
+                <strong>Email:</strong> info@example.com<br>
+              </p>
+              <div class="social-links mt-3">
+                <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
+                <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
+                <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
+                <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
+                <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-2 col-md-6 footer-links" data-aos="fade-up" data-aos-delay="150">
+            <h4>Useful Links</h4>
+            <ul>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Home</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">About us</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Services</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Terms of service</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Privacy policy</a></li>
+            </ul>
+          </div>
+
+          <div class="col-lg-2 col-md-6 footer-links" data-aos="fade-up" data-aos-delay="250">
+            <h4>Our Services</h4>
+            <ul>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Web Design</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Web Development</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Product Management</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Marketing</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Graphic Design</a></li>
+            </ul>
+          </div>
+
+          <div class="col-lg-4 col-md-6 footer-newsletter" data-aos="fade-up" data-aos-delay="350">
+            <h4>Our Newsletter</h4>
+            <p>Tamen quem nulla quae legam multos aute sint culpa legam noster magna</p>
+            <form action="" method="post">
+              <input type="email" name="email"><input type="submit" value="Subscribe">
+            </form>
+
+          </div>
+
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+      <div class="copyright">
+        &copy; Copyright <strong><span>MSDA Viz</span></strong>. All Rights Reserved
+      </div>
+      <div class="credits">
+        <!-- All the links in the footer should remain intact. -->
+        <!-- You can delete the links only if you purchased the pro version. -->
+        <!-- Licensing information: https://bootstrapmade.com/license/ -->
+        <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/squadfree-free-bootstrap-template-creative/ -->
+        Designed by <a href="#">Abdoulahi MBENGUE& Seyni KAIRE& Khadim CISSE</a>
+      </div>
+    </div>
+  </footer><!-- End Footer -->
+
+  <a href="#" class="back-to-top"><i class="icofont-simple-up"></i></a>
+
+  <!-- Vendor JS Files -->
+  <script src="assets/vendor/jquery/jquery.min.js"></script>
+  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="assets/vendor/jquery.easing/jquery.easing.min.js"></script>
+  <script src="assets/vendor/php-email-form/validate.js"></script>
+  <script src="assets/vendor/waypoints/jquery.waypoints.min.js"></script>
+  <script src="assets/vendor/counterup/counterup.min.js"></script>
+  <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+  <script src="assets/vendor/venobox/venobox.min.js"></script>
+  <script src="assets/vendor/owl.carousel/owl.carousel.min.js"></script>
+  <script src="assets/vendor/aos/aos.js"></script>
+
+  <!-- Template Main JS File -->
+  <script src="assets/js/main.js"></script>
+
+</body>
+
+</html>

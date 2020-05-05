@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+    <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+    <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1366" height="576" xml:space="preserve">
+        <desc>JavaScript chart by amCharts 3.21.15</desc>
+        <desc>This map was created using Pixel Map Generator by amCharts and is licensed under the Creative Commons Attribution 4.0 International License. You may use this map the way you see fit as long as proper attribution to the name of amCharts is given in the form of link to http://pixelmap.amcharts.com/ To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/ If you would like to use this map without any attribution, you can acquire a commercial license for the JavaScript Maps - a tool that was used to produce this map. To do so, visit amCharts Online Store: http://www.amcharts.com/online-store/</desc>
+        <g>
+            <path cs="100,100" d="M0.5,0.5 L1365.5,0.5 L1365.5,575.5 L0.5,575.5 Z" fill="#2d8651" stroke="#000000" fill-opacity="1" stroke-width="1" stroke-opacity="1" class="amcharts-bg"></path>
+        </g>
+        <g>
+            <g transform="translate(627.9163193382601,148.01131685056893) scale(0.5)">
+                <g transform="translate(0,0) scale(0.27554928922107935)">
+                    <path cs="100,100" d="M554.83,2090.37L799.81,2017.4L711.04,1851.83L710.29,1758.86L577.62,1833.82L528.21,1798.32L447.41,1797.43L430.53,1865.88L360.99,1911.41L383.04,1958.73L471.99,1997.86L554.83,2090.37z" transform="translate(0,-29)" stroke-width="7.258229573567709" fill="#f1e30e" fill-opacity="1" stroke="#2d8651" stroke-opacity="1" class="amcharts-map-area amcharts-map-area-TG-M" role="menuitem" aria-label="Maritime  " countryId="TG-M"></path>
+                    <path cs="100,100" d="M0.19,0L75.01,30.28L32.19,209.58L231.12,355.75L230.29,459L295.84,525.26L347.04,524.52L370.79,403.01L477.54,383.57L380.54,314.48L388.98,184.71L438.31,59.48L268.48,84.35L268.06,55.1L0.19,0z" transform="translate(0,-29)" stroke-width="7.258229573567709" fill="#f1e30e" fill-opacity="1" stroke="#2d8651" stroke-opacity="1" class="amcharts-map-area amcharts-map-area-TG-S" role="menuitem" aria-label="Savanes  " countryId="TG-S"></path>
+                    <path cs="100,100" d="M726.59,1152.51L575.78,1150.63L587.31,1237L564.9,1313.63L315.69,1349.15L319.64,1429.38L271.75,1510.17L332.83,1593.92L313.78,1705.9L271.33,1729.91L360.99,1911.41L430.53,1865.88L447.41,1797.43L528.21,1798.32L577.62,1833.82L710.29,1758.86L697.04,1722.14L735.51,1720.13L726.59,1152.51z" transform="translate(0,-29)" stroke-width="7.258229573567709" fill="#f1e30e" fill-opacity="1" stroke="#2d8651" stroke-opacity="1" class="amcharts-map-area amcharts-map-area-TG-P" role="menuitem" aria-label="Plateaux  " countryId="TG-P" cursor="pointer"></path>
+                    <path cs="100,100" d="M651.17,768.41L611.36,664.42L614.59,475.29L477.54,383.57L370.79,403.01L347.04,524.52L295.84,525.26L230.29,459L211.9,461.81L210.8,614.12L175.46,616.61L223.38,644.81L162.83,650.5L192.26,678.92L161.44,710.17L237.3,685.25L286.42,723.17L245.35,878.46L266.83,958.47L368.43,869.72L458.92,880.84L479.05,804.39L651.17,768.41z" transform="translate(0,-29)" stroke-width="7.258229573567709" fill="#f1e30e" fill-opacity="1" stroke="#2d8651" stroke-opacity="1" class="amcharts-map-area amcharts-map-area-TG-K" role="menuitem" aria-label="Kara  " countryId="TG-K" cursor="pointer"></path>
+                    <path cs="100,100" d="M726.59,1152.51L723.25,858L651.17,768.41L479.05,804.39L458.92,880.84L368.43,869.72L266.83,958.47L221.3,979.74L222.02,1004.24L321.29,1102.19L360.86,1181.34L303.86,1220.33L315.69,1349.15L564.9,1313.63L587.31,1237L575.78,1150.63L726.59,1152.51z" transform="translate(0,-29)" stroke-width="7.258229573567709" fill="#f1e30e" fill-opacity="1" stroke="#2d8651" stroke-opacity="1" class="amcharts-map-area amcharts-map-area-TG-C" role="menuitem" aria-label="Centre  " countryId="TG-C" cursor="pointer"></path>
+                </g>
+                <g>
+                    <g class="amcharts-map-image-container" role="menuitem" aria-label=" " transform="translate(378.11975664073395,105.96247916996607) scale(2)" cursor="pointer">
+                        <circle r="0.5" cx="0" cy="0" fill="#f1f1f1" stroke="#000000" fill-opacity="0.8" stroke-width="0.01" stroke-opacity="1" transform="translate(0,0) scale(1)" class="amcharts-map-image"></circle>
+                        <text y="8" fill="#f1f1f1" font-family="Verdana" font-size="15px" opacity="1" text-anchor="middle" class="amcharts-map-image-label" transform="translate(44.125,-15)" fill-opacity="0.8">
+                            <tspan y="8" x="0">Capitale Lomé</tspan>
+                        </text>
+                    </g>
+                    <g class="amcharts-map-image-container" role="menuitem" aria-label=" " transform="translate(402.1173442389977,251.95675907797053) scale(2)" cursor="pointer">
+                        <circle r="0.5" cx="0" cy="0" fill="#f1f1f1" stroke="#000000" fill-opacity="0.8" stroke-width="0.01" stroke-opacity="1" transform="translate(0,0) scale(1)" class="amcharts-map-image"></circle>
+                        <text y="8" fill="#f1f1f1" font-family="Verdana" font-size="15px" opacity="1" text-anchor="middle" class="amcharts-map-image-label" transform="translate(142.84375,-15)" fill-opacity="0.8">
+                            <tspan y="8" x="0">Population totale (2020) 8 608 444 hab.</tspan>
+                        </text>
+                    </g>
+                    <g class="amcharts-map-image-container" role="menuitem" aria-label=" " transform="translate(362.12136490855806,-32.03536036484269) scale(2)" cursor="pointer">
+                        <circle r="0.5" cx="0" cy="0" fill="#f1f1f1" stroke="#000000" fill-opacity="0.8" stroke-width="0.01" stroke-opacity="1" transform="translate(0,0) scale(1)" class="amcharts-map-image"></circle>
+                        <text y="8" fill="#f1f1f1" font-family="Verdana" font-size="15px" opacity="1" text-anchor="middle" class="amcharts-map-image-label" transform="translate(160.5625,-15)" fill-opacity="0.8">
+                            <tspan y="8" x="0">Président de la République Faure Gnassingbé</tspan>
+                        </text>
+                    </g>
+                    <g class="amcharts-map-image-container" role="menuitem" aria-label=" " transform="translate(404.12609855741937,179.96399628317914) scale(2)" cursor="pointer">
+                        <circle r="0.5" cx="0" cy="0" fill="#f1f1f1" stroke="#000000" fill-opacity="0.8" stroke-width="0.01" stroke-opacity="1" transform="translate(0,0) scale(1)" class="amcharts-map-image"></circle>
+                        <text y="8" fill="#f1f1f1" font-family="Verdana" font-size="15px" opacity="1" text-anchor="middle" class="amcharts-map-image-label" transform="translate(100.234375,-15)" fill-opacity="0.8">
+                            <tspan y="8" x="0">Superficie totale 56 785 km2</tspan>
+                        </text>
+                    </g>
+                    <g class="amcharts-map-image-container" role="menuitem" aria-label=" " transform="translate(314.1124122475694,445.94896967539484) scale(2)" cursor="pointer">
+                        <circle r="0.5" cx="0" cy="0" fill="#f1f1f1" stroke="#000000" fill-opacity="0.8" stroke-width="0.01" stroke-opacity="1" transform="translate(0,0) scale(1)" class="amcharts-map-image"></circle>
+                        <text y="8" fill="#f1f1f1" font-family="Verdana" font-size="15px" opacity="1" text-anchor="middle" class="amcharts-map-image-label" transform="translate(153.25,-15)" fill-opacity="0.8">
+                            <tspan y="8" x="0">PIB nominal (2018) 5,3 milliards de dollars</tspan>
+                        </text>
+                    </g>
+                    <g class="amcharts-map-image-container" role="menuitem" aria-label=" " transform="translate(-557.8770909569972,731.9608654081985) scale(2)" cursor="pointer">
+                        <circle r="0.5" cx="0" cy="0" fill="#f1f1f1" stroke="#000000" fill-opacity="0.8" stroke-width="0.01" stroke-opacity="1" transform="translate(0,0) scale(1)" class="amcharts-map-image"></circle>
+                        <text y="8" fill="#f1f1f1" font-family="Verdana" font-size="15px" opacity="1" text-anchor="middle" class="amcharts-map-image-label" transform="translate(292.875,-15)" fill-opacity="0.8">
+                            <tspan y="8" x="0">Copyright © CEDEAO 2020 by Abdoulahi MBENGUE, Seyni Kaire, Khadim CISSE</tspan>
+                        </text>
+                    </g>
+                    <g class="amcharts-map-image-container" role="menuitem" aria-label=" " transform="translate(354.11114707090127,549.9467824132146) scale(2)" cursor="pointer">
+                        <circle r="0.5" cx="0" cy="0" fill="#f1f1f1" stroke="#000000" fill-opacity="0.8" stroke-width="0.01" stroke-opacity="1" transform="translate(0,0) scale(1)" class="amcharts-map-image"></circle>
+                        <text y="8" fill="#f1f1f1" font-family="Verdana" font-size="15px" opacity="1" text-anchor="middle" class="amcharts-map-image-label" transform="translate(123.8125,-15)" fill-opacity="0.8">
+                            <tspan y="8" x="0">Monnaie Franc CFA (UEMOA) (XOF​)</tspan>
+                        </text>
+                    </g>
+                    <g class="amcharts-map-image-container" role="menuitem" aria-label=" " transform="translate(372.1182931214988,29.96598520279238) scale(2)" cursor="pointer">
+                        <circle r="0.5" cx="0" cy="0" fill="#f1f1f1" stroke="#000000" fill-opacity="0.8" stroke-width="0.01" stroke-opacity="1" transform="translate(0,0) scale(1)" class="amcharts-map-image"></circle>
+                        <text y="8" fill="#f1f1f1" font-family="Verdana" font-size="15px" opacity="1" text-anchor="middle" class="amcharts-map-image-label" transform="translate(92.90625,-15)" fill-opacity="0.8">
+                            <tspan y="8" x="0">Langues officielles Français</tspan>
+                        </text>
+                    </g>
+                    <g class="amcharts-map-image-container" role="menuitem" aria-label=" " transform="translate(338.12377731029426,-94.03670593247774) scale(2)" cursor="pointer">
+                        <circle r="0.5" cx="0" cy="0" fill="#f1f1f1" stroke="#000000" fill-opacity="0.8" stroke-width="0.01" stroke-opacity="1" transform="translate(0,0) scale(1)" class="amcharts-map-image"></circle>
+                        <text y="8" fill="#f1f1f1" font-family="Verdana" font-size="15px" opacity="1" text-anchor="middle" class="amcharts-map-image-label" transform="translate(27.875,-15)" fill-opacity="0.8">
+                            <tspan y="8" x="0">Pays Togo</tspan>
+                        </text>
+                    </g>
+                    <g class="amcharts-map-image-container" role="menuitem" aria-label=" " transform="translate(364.1190972554109,343.9488892844279) scale(2)" cursor="pointer">
+                        <circle r="0.5" cx="0" cy="0" fill="#f1f1f1" stroke="#000000" fill-opacity="0.8" stroke-width="0.01" stroke-opacity="1" transform="translate(0,0) scale(1)" class="amcharts-map-image"></circle>
+                        <text y="8" fill="#f1f1f1" font-family="Verdana" font-size="15px" opacity="1" text-anchor="middle" class="amcharts-map-image-label" transform="translate(74.953125,-15)" fill-opacity="0.8">
+                            <tspan y="8" x="0">Densité 152 hab./km2</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+        
+    </svg>
